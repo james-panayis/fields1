@@ -4,6 +4,8 @@ Simple electrical field visualiser
   
 Two charges are fixed  
 Move your mouse to move a third charge  
+Scroll mousewheel or use f and g to zoom centered on mouse pointer
+Use wasd to jump
   
 For demo please see: https://jamespanayis.com/fields1
 
