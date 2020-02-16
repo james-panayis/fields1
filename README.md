@@ -5,11 +5,15 @@ Simple electrical field visualiser
 Two charges are fixed  
 Move your mouse to move a third charge  
 Scroll mousewheel or use *f* and *g* to zoom centered on mouse pointer  
-Use *wasd* to move
+Use *wasd* to move  
+Click when zooming to stop zooming  
+Click when still to reset  
   
 For demo please see: https://jamespanayis.com/fields1
 
 ## Build instructions
+
+The C++ is compiled to WebAssembly and requires a working **emscripten** install  
 
 run:
 
