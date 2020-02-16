@@ -1,9 +1,10 @@
 ## Introduction
 
-fields1
-Simple electrical field visualiser.
-Two charges are fixed.
-Move your mouse to move a third charge.
+fields1:  
+Simple electrical field visualiser  
+Two charges are fixed  
+Move your mouse to move a third charge  
+For demo see https://jamespanayis.com/fields1
 
 ## Build instructions
 
