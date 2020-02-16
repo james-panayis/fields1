@@ -2,7 +2,7 @@
 NAME=fields1
 
 # installation prefix
-PREFIX=/data/wa
+#PREFIX=/data/wa
 
 # the webpath for becomes the installation prefix followed by the program name
 WEBPATH=${PREFIX}/${NAME}

@@ -1,26 +1,28 @@
-### Introduction
+## Introduction
 
 fields1
 Simple electrical field visualiser
 
 
-### Build instructions
+## Build instructions
 
 run:
 
 	make
 
 
-### Install
+## Install
 
-1.
-copy files to webserver route eg:
-	
-	make install
-
-or run a local webserver and surf to it eg:
+Run a local webserver and surf to it eg:
 
 	python -m SimpleHTTPServer 8080
 
-2.
-browse to //localhost:8080/build/fields1.html
+Browse to //localhost:8080/build/fields1.html.
+
+OR:
+
+Copy files to webserver root:
+
+	PREFIX=/path/to/web/root make install
+	
+Browse to your webserver.
